@@ -9,6 +9,8 @@ These folders contains there things:
 - Cron Job
 - Clear Cache of Project Each Deployment
 - Nginx Configuration
+ 
+-------------------------------------------------------------------------- 
 
 if you need to "install supervisor on AWS Elastic Beanstalk & Laravel"
 
